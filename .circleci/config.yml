@@ -66,9 +66,9 @@ workflows:
           filters:
             branches:
               only:
-                - main # build only for the main branch
+                - master # build only for the main branch
       - backend_build_deploy:
           filters:
             branches:
               only:
-                - main # build only for the main branch
+                - master # build only for the main branch

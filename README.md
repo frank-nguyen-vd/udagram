@@ -28,30 +28,30 @@ Below are the screenshots from the latest built
 
 ### RDS - Database
 
-![RDS](./docs/images/rds.jpeg)
+![RDS](./assets/rds.jpeg)
 
 ### Elastic Beanstalk - API Server
 
-![EB Dashboard](./docs/images/eb.jpeg)
+![EB Dashboard](./assets/eb.jpeg)
 
 ### Amazon S3
 
-![S3 Dashboard](./docs/images/s3.jpeg)
+![S3 Dashboard](./assets/s3.jpeg)
 
 ### CircleCI
 
 #### Dashboard 
 
-![CircleCI Dashboard](./docs/images/circleci_dashboard.jpeg)
+![CircleCI Dashboard](./assets/circleci_dashboard.jpeg)
 
 #### Environment Variables
 
-![CircleCI Env Variables](./docs/images/circleci_env.jpeg)
+![CircleCI Env Variables](./assets/circleci_env.jpeg)
 
 #### Frontend_build_deploy
 
-![Frontend_build_deploy](./docs/images/circleci_frontend.jpeg)
+![Frontend_build_deploy](./assets/circleci_frontend.jpeg)
 
 #### Backend_build_deploy
 
-![Backend_build_deploy](./docs/images/circleci_backend.jpeg)
+![Backend_build_deploy](./assets/circleci_backend.jpeg)
