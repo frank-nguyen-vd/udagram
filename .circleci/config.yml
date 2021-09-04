@@ -22,7 +22,7 @@ jobs:
           aws-region: AWS_DEFAULT_REGION
           aws-secret-access-key: AWS_SECRET_ACCESS_KEY
           from: bucket
-          to: 's3://udagram_web/'
+          to: 's3://udagram-web/'
       - run:
           name: Front-End Install
           command: |
