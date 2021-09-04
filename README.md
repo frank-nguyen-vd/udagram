@@ -50,8 +50,8 @@ Below are the screenshots from the latest built
 
 #### Frontend_build_deploy
 
-![Frontend_build_deploy](./assets/circleci_frontend.jpeg)
+![Frontend_build_deploy](./assets/circleci_frontend.png)
 
 #### Backend_build_deploy
 
-![Backend_build_deploy](./assets/circleci_backend.jpeg)
+![Backend_build_deploy](./assets/circleci_backend.png)
