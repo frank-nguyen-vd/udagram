@@ -10,4 +10,4 @@ eb setenv POSTGRES_PORT=$POSTGRES_PORT
 eb setenv POSTGRES_USERNAME=$POSTGRES_USERNAME
 eb setenv URL=$URL
 
-eb deploy
+eb deploy --profile default
