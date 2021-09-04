@@ -11,9 +11,6 @@ jobs:
     docker:
       # the base image can run most needed actions with orbs.
       - image: "cimg/base:stable"
-        aws_auth:
-          aws_access_key_id: $AWS_ACCESS_KEY_ID
-          aws_secret_access_key: $AWS_SECRET_ACCESS_KEY
     steps:
       - node/install
       - checkout
@@ -40,9 +37,6 @@ jobs:
     docker:
       # the base image can run most needed actions with orbs.
       - image: "cimg/base:stable"
-        aws_auth:
-          aws_access_key_id: $AWS_ACCESS_KEY_ID
-          aws_secret_access_key: $AWS_SECRET_ACCESS_KEY        
     steps:
       - node/install
       - checkout
