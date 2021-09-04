@@ -11,7 +11,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "build:production": "ng build --configuration=production",
-    "deploy": "chmod +x scripts/deploy.sh && scripts/deploy.sh"
+    "deploy": "chmod +x bin/deploy.sh && bin/deploy.sh"
   },
   "private": true,
   "dependencies": {

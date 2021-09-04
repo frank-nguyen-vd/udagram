@@ -2,7 +2,7 @@
 
 This project demonstrates on how to host web application (frontend, backend, database) in AWS cloud.
 
-Application link: `TODO`
+Application link: http://udagram-web.s3-website-us-east-1.amazonaws.com
 
 ## Application Feature List
 
